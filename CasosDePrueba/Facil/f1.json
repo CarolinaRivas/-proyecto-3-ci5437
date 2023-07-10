@@ -1,0 +1,8 @@
+{
+  "tournament_name": "Torneo de Fútbol",
+  "start_date": "2023-08-01",
+  "end_date": "2023-08-10",
+  "start_time": "10:00:00",
+  "end_time": "18:00:00",
+  "participants": ["Luis", "María", "Juan"]
+}

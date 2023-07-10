@@ -1,0 +1,8 @@
+{
+  "tournament_name": "Torneo de Tenis",
+  "start_date": "2023-11-01",
+  "end_date": "2023-11-10",
+  "start_time": "09:00:00",
+  "end_time": "21:00:00",
+  "participants": ["Emma García", "Lucas Torres", "Valentina Morales", "Matías Castro", "Isabella Ríos", "Santiago Ortega", "Ana Martínez", "Luisa Vargas"]
+}
