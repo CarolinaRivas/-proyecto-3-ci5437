@@ -1,8 +1,8 @@
 {
   "tournament_name": "Torneo de Baloncesto",
   "start_date": "2023-09-01",
-  "end_date": "2023-10-07",
+  "end_date": "2023-10-06",
   "start_time": "10:00:00",
   "end_time": "23:00:00",
-  "participants": ["Sofia", "Carlos", "Laura", "David", "Javier", "Valentina","Josue", "Alejandro","Estefano","Richard","Dylan","Jose","Andres","Eugenio"]
+  "participants": ["Sofia", "Carlos", "Laura", "David", "Javier", "Valentina","Josue", "Alejandro","Estefano","Richard","Dylan","Jose"]
 }

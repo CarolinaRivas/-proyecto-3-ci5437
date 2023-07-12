@@ -1,8 +1,8 @@
 {
-  "tournament_name": "Torneo de Futbol",
-  "start_date": "2023-08-01",
-  "end_date": "2023-09-01",
-  "start_time": "08:00:00",
-  "end_time": "22:00:00",
-  "participants": ["Luis", "Maria", "Juan", "Ana", "Pedro", "Laura", "Carlos","Diego","Julian","Alonso","Jesus","Manuel","Vicente"]
+  "tournament_name": "Torneo de Tenis",
+  "start_date": "2023-11-01",
+  "end_date": "2023-12-01",
+  "start_time": "10:00:00",
+  "end_time": "18:00:00",
+  "participants": ["Emma", "Lucas", "Valentina", "Matias", "Isabella", "Santiago","Ignacio","Karol","ALbert","ALberta","ALberto"]
 }
